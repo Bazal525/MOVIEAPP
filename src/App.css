@@ -1,0 +1,18 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://wallpaperset.com/w/full/7/5/b/203988.jpg");
+}
+
+
+.modal-footer text-bg-dark d-flex justify-content-center p-2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+}
+.app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

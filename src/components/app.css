@@ -1,0 +1,18 @@
+/* app.css */
+.yellow-text {
+    color: #ffc100;
+}
+
+.custom-navbar {
+    font-size: 1.7rem;
+    padding-left: 8%;
+    padding-right: 20%;
+}
+.yellow-text:hover {
+    color: #ff6200; /* Możesz dostosować kolor po najechaniu według własnych preferencji */
+}
+
+.yellow-text:active,
+.yellow-text:focus {
+    color: #ff6200 !important; /* Dodaj !important, aby zwiększyć specyficzność */
+}
